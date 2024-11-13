@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Chaya. Here's a bit about me:
-- 🧑‍💻 I like to code in my free time.
-- 💻 So far, I have learned HTML, CSS, and JavaScript.
-- 🌱 I’m currently learning React, mostly through freeCodeCamp.
+- 🧑‍💻 I like to learn and code in my free time.
+- 💻 Some languages I work with are HTML, CSS, JavaScript, and Python.
+- 🌱 One thing I’m currently working on is React, mostly through freeCodeCamp.
 - 🔒 I previously studied cybersecurity, and am active on TryHackMe.
 - ⚡ Fun fact: I love debugging, or more specifically, the feeling of satisfaction from finding and fixing the bug. 🐞
 
